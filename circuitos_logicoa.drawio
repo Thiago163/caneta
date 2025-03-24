@@ -133,6 +133,9 @@
         <mxCell id="s7-bP_6NTdAoJYUtMOgg-33" value="Alarme" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="510" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s7-bP_6NTdAoJYUtMOgg-34" value="M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
