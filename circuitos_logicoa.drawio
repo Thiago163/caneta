@@ -67,13 +67,13 @@
             <mxPoint x="90" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7-bP_6NTdAoJYUtMOgg-13" value="S" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s7-bP_6NTdAoJYUtMOgg-13" value="P" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s7-bP_6NTdAoJYUtMOgg-14" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s7-bP_6NTdAoJYUtMOgg-14" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s7-bP_6NTdAoJYUtMOgg-16" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s7-bP_6NTdAoJYUtMOgg-16" value="Lampada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
