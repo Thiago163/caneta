@@ -8,28 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-1" value="Cliente chega na consultoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cliente&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="34" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-3" value="Cliente informa problema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="170" as="sourcePoint" />
-            <mxPoint x="790" y="170" as="targetPoint" />
+            <mxPoint x="14" y="330" as="sourcePoint" />
+            <mxPoint x="794" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Gestão&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="34" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-9" target="vun-Wb9-s5xzh4HGfUBB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-9" value="Identificar problema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-11" target="vun-Wb9-s5xzh4HGfUBB-9">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-11" value="Checagem de dados" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="140" height="100" as="geometry" />
+          <mxGeometry x="194" y="360" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-12" target="vun-Wb9-s5xzh4HGfUBB-13">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-12" value="Buscar Solução" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="140" height="100" as="geometry" />
+          <mxGeometry x="474" y="440" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-13" target="vun-Wb9-s5xzh4HGfUBB-14">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-13" value="Registrar atendimento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="674" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-14" value="Encerrar atendimento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="394" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-3" target="vun-Wb9-s5xzh4HGfUBB-11">
           <mxGeometry relative="1" as="geometry" />
@@ -71,22 +71,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-22" value="Analisar melhor solução" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="431" width="140" height="100" as="geometry" />
+          <mxGeometry x="224" y="591" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="390" as="sourcePoint" />
-            <mxPoint x="810" y="390" as="targetPoint" />
+            <mxPoint x="14" y="550" as="sourcePoint" />
+            <mxPoint x="814" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Planejamento estratégico&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="431" width="120" height="80" as="geometry" />
+          <mxGeometry x="34" y="591" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-26" target="vun-Wb9-s5xzh4HGfUBB-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-26" value="Preparar equipamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="451" width="120" height="60" as="geometry" />
+          <mxGeometry x="594" y="611" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-27" target="vun-Wb9-s5xzh4HGfUBB-26">
           <mxGeometry relative="1" as="geometry" />
@@ -94,25 +94,25 @@
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-27" target="vun-Wb9-s5xzh4HGfUBB-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="420" />
-              <mxPoint x="730" y="420" />
+              <mxPoint x="484" y="580" />
+              <mxPoint x="734" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-27" value="Fazer orçamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="451" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="611" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-30" target="vun-Wb9-s5xzh4HGfUBB-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-30" value="Implementar solução" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="594" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vun-Wb9-s5xzh4HGfUBB-34" target="vun-Wb9-s5xzh4HGfUBB-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vun-Wb9-s5xzh4HGfUBB-34" value="Comprar equipamentos para a solução" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="594" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
