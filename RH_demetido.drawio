@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tZ4qlHMTrRv3l1GWOMEk">
-    <mxGraphModel dx="1094" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,25 +29,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abrir uma nova empresa" vertex="1">
-          <mxGeometry height="40" width="155" x="185" y="320" as="geometry" />
+          <mxGeometry height="40" width="155" x="226" y="321" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-22" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Procurar um emprego" vertex="1">
-          <mxGeometry height="40" width="155" x="450" y="320" as="geometry" />
+          <mxGeometry height="40" width="155" x="427.5" y="321" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-24" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tornar se empresario" vertex="1">
-          <mxGeometry height="40" width="155" x="185" y="410" as="geometry" />
+          <mxGeometry height="40" width="155" x="226" y="411" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-23" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conseguir um novo emprego" vertex="1">
-          <mxGeometry height="40" width="170" x="442.5" y="410" as="geometry" />
+          <mxGeometry height="40" width="170" x="420" y="411" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Empresa de sucesso&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="310" y="530" as="geometry" />
