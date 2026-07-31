@@ -22,35 +22,53 @@
         <mxCell id="7DxkeMhEWycmHFnouy5D-19" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="7DxkeMhEWycmHFnouy5D-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Decisão" vertex="1">
-          <mxGeometry height="50" width="130" x="335" y="250" as="geometry" />
+        <mxCell id="7DxkeMhEWycmHFnouy5D-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Oque fazer?" vertex="1">
+          <mxGeometry height="50" width="155" x="335" y="250" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-20" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abrir uma nova empresa" vertex="1">
-          <mxGeometry height="40" width="155" x="226" y="321" as="geometry" />
+          <mxGeometry height="40" width="155" x="226" y="306" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-22" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-11">
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-16" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Procurar um emprego" vertex="1">
-          <mxGeometry height="40" width="155" x="427.5" y="321" as="geometry" />
+          <mxGeometry height="40" width="155" x="535" y="317" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-24" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-9" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tornar se empresario" vertex="1">
-          <mxGeometry height="40" width="155" x="226" y="411" as="geometry" />
+          <mxGeometry height="40" width="155" x="226" y="363" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-23" edge="1" parent="1" source="7DxkeMhEWycmHFnouy5D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
+        <mxCell id="7DxkeMhEWycmHFnouy5D-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Colaborador de sucesso&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="408.5" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-6" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Conseguir um novo emprego" vertex="1">
-          <mxGeometry height="40" width="170" x="420" y="411" as="geometry" />
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fazer intrevista na empresa dos novos empresarios" vertex="1">
+          <mxGeometry height="40" width="155" x="535" y="398" as="geometry" />
         </mxCell>
-        <mxCell id="7DxkeMhEWycmHFnouy5D-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Empresa de sucesso&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="180" x="310" y="530" as="geometry" />
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-7" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-15" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Empresario aceita ou não o novo empregado" vertex="1">
+          <mxGeometry height="69" width="183" x="407" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-13" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contratar funcionarios" vertex="1">
+          <mxGeometry height="40" width="149" x="228" y="419" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Empresa de sucesso&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="212.5" y="496" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
