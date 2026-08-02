@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tZ4qlHMTrRv3l1GWOMEk">
-    <mxGraphModel dx="1094" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-53" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Solução para não morrer de fome" vertex="1">
-          <mxGeometry height="80" width="120" x="352" y="159" as="geometry" />
+          <mxGeometry height="80" width="149" x="331" y="159" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
