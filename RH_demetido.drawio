@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tZ4qlHMTrRv3l1GWOMEk">
-    <mxGraphModel dx="1212" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,8 @@
         <mxCell id="ZGRZ6oDpx18EdiIknWev-45" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGRZ6oDpx18EdiIknWev-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Trabalho duro" vertex="1">
-          <mxGeometry height="40" width="149" x="121.5" y="522" as="geometry" />
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dedicação e esforço para o crescimento da empresa" vertex="1">
+          <mxGeometry height="54" width="161" x="115.5" y="517" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-49" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-1">
           <mxGeometry relative="1" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="ZGRZ6oDpx18EdiIknWev-52" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGRZ6oDpx18EdiIknWev-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Trabalho duro" vertex="1">
-          <mxGeometry height="40" width="149" x="543" y="546" as="geometry" />
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dedicação e esforço para o crescimento profissional" vertex="1">
+          <mxGeometry height="54" width="161" x="537" y="531" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-55" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-6">
           <mxGeometry relative="1" as="geometry" />
