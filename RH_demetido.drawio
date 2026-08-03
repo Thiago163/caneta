@@ -49,7 +49,7 @@
         <mxCell id="ZGRZ6oDpx18EdiIknWev-28" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGRZ6oDpx18EdiIknWev-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tornar se empresario" vertex="1">
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tornar-se empresário" vertex="1">
           <mxGeometry height="40" width="155" x="115.5" y="261" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-58" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-43">
