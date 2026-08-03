@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="tZ4qlHMTrRv3l1GWOMEk">
-    <mxGraphModel dx="1216" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="40" width="155" x="540" y="179" as="geometry" />
         </mxCell>
         <mxCell id="7DxkeMhEWycmHFnouy5D-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Colaborador de sucesso&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="180" x="527.5" y="678" as="geometry" />
+          <mxGeometry height="40" width="180" x="527.5" y="662" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-41" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-3">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Passou na entrevista" vertex="1">
-          <mxGeometry height="69" width="183" x="526" y="492" as="geometry" />
+          <mxGeometry height="69" width="183" x="526" y="476" as="geometry" />
         </mxCell>
         <mxCell id="CWlCKmnFal7Ah2KczrYD-2" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-18">
           <mxGeometry relative="1" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry height="75" width="205" x="84" y="376.5" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SIM" vertex="1">
-          <mxGeometry height="30" width="60" x="606" y="552" as="geometry" />
+          <mxGeometry height="30" width="60" x="606" y="536" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NÃO" vertex="1">
-          <mxGeometry height="30" width="60" x="686" y="525" as="geometry" />
+          <mxGeometry height="30" width="60" x="690" y="506" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SIM" vertex="1">
           <mxGeometry height="30" width="60" x="133.5" y="441.5" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dedicação e esforço para o crescimento profissional" vertex="1">
-          <mxGeometry height="54" width="161" x="537" y="591" as="geometry" />
+          <mxGeometry height="54" width="161" x="537" y="575" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-55" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7DxkeMhEWycmHFnouy5D-6">
           <mxGeometry relative="1" as="geometry" />
