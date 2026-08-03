@@ -56,10 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contratar funcionarios" vertex="1">
-          <mxGeometry height="40" width="149" x="121.5" y="438" as="geometry" />
+          <mxGeometry height="40" width="149" x="112" y="438" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Empresa de sucesso&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="180" x="106" y="618" as="geometry" />
+          <mxGeometry height="40" width="180" x="96.5" y="618" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-57" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-21">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +67,8 @@
         <mxCell id="ZGRZ6oDpx18EdiIknWev-62" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGRZ6oDpx18EdiIknWev-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Empresa precisa de funcionarios" vertex="1">
-          <mxGeometry height="69" width="183" x="106" y="335" as="geometry" />
+        <mxCell id="ZGRZ6oDpx18EdiIknWev-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="A empresa precisa contratar funcionários?" vertex="1">
+          <mxGeometry height="75" width="205" x="84" y="329" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SIM" vertex="1">
           <mxGeometry height="30" width="60" x="606" y="492" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dedicação e esforço para o crescimento da empresa" vertex="1">
-          <mxGeometry height="54" width="161" x="115.5" y="517" as="geometry" />
+          <mxGeometry height="54" width="161" x="106" y="521" as="geometry" />
         </mxCell>
         <mxCell id="ZGRZ6oDpx18EdiIknWev-49" edge="1" parent="1" source="ZGRZ6oDpx18EdiIknWev-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZGRZ6oDpx18EdiIknWev-1">
           <mxGeometry relative="1" as="geometry" />
